@@ -1,2 +1,2 @@
 # badamprabhu 
-git command dermination
+git command demonstration

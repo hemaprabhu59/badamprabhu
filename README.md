@@ -1,1 +1,2 @@
-# badamprabhu
+# badamprabhu 
+git command dermination
